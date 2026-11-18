@@ -2,7 +2,7 @@ Password Cracking with JTR & NetworkWalks Tools
 
 📌 Overview
 
-This repository documents Week 3 of the Cybersecurity & Ethical Hacking Internship at Networkwalks Technologies (Batch B083), focused on password recovery techniques applied to encrypted PDF files.
+This repository documents Week 3 of the Cybersecurity Internship at Networkwalks Technologies which focuses on password recovery techniques applied to encrypted PDF files.
 
 Two distinct methodologies were used to achieve the same objective: a locally installed toolset (John the Ripper with the Johnny GUI) and a browser-based toolset developed by Networkwalks (Hash Calculator and Password Cracker). Both approaches follow the same underlying principle — extract the file's password hash, then run a dictionary attack against it.
 
